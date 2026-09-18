@@ -9,9 +9,11 @@ Originally developed as a university project for the course [Programming for Mob
   <img src="https://github.com/user-attachments/assets/47263365-e40c-4a39-8408-791eaea9446b" width="220" />
   <img src="https://github.com/user-attachments/assets/5fe21801-bd42-46a3-9f70-d0be57e54011" width="220" />
   <img src="https://github.com/user-attachments/assets/48a540b8-e7f8-4c7e-8938-36b14de30766" width="220" />
+</p>
+
+<p>
   <img src="https://github.com/user-attachments/assets/b67c3cdb-0302-42e0-8dda-abadc419bf6a" width="220" />
   <img src="https://github.com/user-attachments/assets/9870f035-2e40-4b2c-9cf9-acc7b67a9c18" width="220" />
-
 </p>
 
 ## Features
