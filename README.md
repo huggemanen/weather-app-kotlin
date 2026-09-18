@@ -1,6 +1,6 @@
 # Weather App
 
-An Android weather application built with Kotlin and Jetpack Compose. The app uses WeatherAPI.com to provide real-time weather data and supports location-based forecasts, city search, favorites, detailed forecasts, and customizable settings.
+An Android weather application built with Kotlin and Jetpack Compose. The app uses [WeatherAPI.com](https://www.weatherapi.com/) to provide real-time weather data and supports location-based forecasts, city search, favorites, detailed forecasts, and customizable settings.
 
 Originally developed as a university project for the course [Programming for Mobile Units](https://www.su.se/utbildning/utbildningskatalog/ib/ib916n) at Stockholm University.
 
@@ -38,7 +38,7 @@ Originally developed as a university project for the course [Programming for Mob
 * **Coil** for asynchronous image loading
 * **Jetpack Compose Navigation** for navigation
 * **Google Play Services Location** for GPS-based location services
-* **WeatherAPI.com** for weather data
+* **[WeatherAPI.com](https://www.weatherapi.com/)** for weather data
 
 ## Installation
 
@@ -46,7 +46,7 @@ Originally developed as a university project for the course [Programming for Mob
 
 * Android Studio
 * Android device or emulator running Android 8.0 (API 26) or higher
-* A WeatherAPI.com API key
+* A [WeatherAPI.com](https://www.weatherapi.com/) API key
 
 ### Setup
 
@@ -59,7 +59,7 @@ cd weather-app-kotlin
 
 2. Open the project in Android Studio and let Gradle finish syncing.
 
-3. Create a WeatherAPI.com account and obtain an API key.
+3. Create a [WeatherAPI.com](https://www.weatherapi.com/) account and obtain an API key.
 
 4. Add the API key to `local.properties` in the project root:
 
