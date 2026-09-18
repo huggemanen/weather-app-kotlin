@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 import android.content.Context
 import androidx.compose.runtime.getValue

@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 // dataklasser för api-responsobjekten
 data class WeatherForecast(

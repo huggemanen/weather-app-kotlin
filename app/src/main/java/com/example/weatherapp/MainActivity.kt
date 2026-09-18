@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -13,7 +13,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
-import com.example.uppgift9.ui.theme.Uppgift9Theme
+import com.example.weatherapp.ui.theme.Uppgift9Theme
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.material.icons.Icons

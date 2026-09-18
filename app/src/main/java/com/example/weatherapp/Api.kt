@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 import retrofit2.Call
 import retrofit2.Retrofit

@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 import android.Manifest
 import android.content.pm.PackageManager

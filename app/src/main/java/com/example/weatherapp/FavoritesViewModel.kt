@@ -1,4 +1,4 @@
-package com.example.uppgift9
+package com.example.weatherapp
 
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel

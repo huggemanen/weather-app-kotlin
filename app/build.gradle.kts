@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.uppgift9"
+    namespace = "com.example.weatherapp"
     compileSdk {
         version = release(36)
     }
@@ -17,7 +17,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.uppgift9"
+        applicationId = "com.example.weatherapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
