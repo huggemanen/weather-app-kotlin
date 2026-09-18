@@ -5,9 +5,6 @@ An Android weather application built with Kotlin and Jetpack Compose. The app us
 Originally developed as a university project for the course [Programming for Mobile Units](https://www.su.se/utbildning/utbildningskatalog/ib/ib916n) at Stockholm University.
 
 ## Screenshots
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5fe21801-bd42-46a3-9f70-d0be57e54011" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b67c3cdb-0302-42e0-8dda-abadc419bf6a" />
-
 <p>
   <img src="https://github.com/user-attachments/assets/47263365-e40c-4a39-8408-791eaea9446b" width="220" />
   <img src="https://github.com/user-attachments/assets/5fe21801-bd42-46a3-9f70-d0be57e54011" width="220" />
